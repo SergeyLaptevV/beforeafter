@@ -1,0 +1,11 @@
+.container{
+    width: 984px;
+}
+.slide {
+    width:840px;
+    height: 440px;
+}
+.slideLittle {
+    width: 150px;
+    height: 100px;
+}
